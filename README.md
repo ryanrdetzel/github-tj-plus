@@ -1,5 +1,6 @@
 ## Install
-Download the file and drag it to the extensions page
+Download the github-tj-plus.crx file and drag it to the extensions page
+in Chrome
 
 ## Features
 ### Deployable button
